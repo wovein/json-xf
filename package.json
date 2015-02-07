@@ -1,0 +1,23 @@
+{
+  "name": "json-xf",
+  "version": "0.0.1",
+  "description": "Transform JSON to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wovein/json-xf.git"
+  },
+  "keywords": [
+    "json",
+    "transform"
+  ],
+  "author": "wovein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wovein/json-xf/issues"
+  },
+  "homepage": "https://github.com/wovein/json-xf"
+}
